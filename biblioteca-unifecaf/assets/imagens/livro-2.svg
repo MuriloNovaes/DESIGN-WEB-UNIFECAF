@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 280">
+  <rect width="200" height="280" rx="6" fill="#137343"/>
+  <rect width="14" height="280" fill="#000" opacity=".18"/>
+  <circle cx="160" cy="60" r="70" fill="#e3f5ea" opacity=".18"/>
+  <circle cx="40" cy="250" r="50" fill="#e3f5ea" opacity=".12"/>
+  <rect x="34" y="40" width="40" height="5" rx="2" fill="#e3f5ea"/>
+  <text x="34" y="100" font-family="Poppins, Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">O</text>
+  <text x="34" y="130" font-family="Poppins, Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">CORTIÇO</text>
+  <text x="34" y="160" font-family="Inter, Arial, sans-serif" font-size="13" fill="#e3f5ea">Aluísio Azevedo</text>
+  <rect x="34" y="226" width="22" height="22" rx="4" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <rect x="40" y="232" width="10" height="10" rx="1" fill="#e3f5ea"/>
+  <text x="64" y="243" font-family="Poppins, Arial, sans-serif" font-size="11" font-weight="600" fill="#ffffff">UniFECAF</text>
+</svg>
