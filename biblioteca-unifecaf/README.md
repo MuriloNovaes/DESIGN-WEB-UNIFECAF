@@ -2,7 +2,7 @@
 
 Primeira interface web da Biblioteca Digital UniFECAF, desenvolvida com **HTML e CSS puros** para a disciplina Design Web.
 
-- **Site publicado:** [link do GitHub Pages]
+- **Site publicado:** https://muriloNovaes.github.io/DESIGN-WEB-UNIFECAF/biblioteca-unifecaf/
 - **Vídeo pitch:** [link do YouTube]
 
 ## Seções
